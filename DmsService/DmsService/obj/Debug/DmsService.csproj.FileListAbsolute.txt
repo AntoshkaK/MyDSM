@@ -1,0 +1,11 @@
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\DmsService.dll
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\DmsService.pdb
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Antoshka\Desktop\DmsService\DmsService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antoshka\Desktop\DmsService\DmsService\obj\Debug\DmsService.dll
+C:\Users\Antoshka\Desktop\DmsService\DmsService\obj\Debug\DmsService.pdb
+C:\Users\Antoshka\Desktop\DmsService\DmsService\obj\Debug\DmsService.csprojResolveAssemblyReference.cache

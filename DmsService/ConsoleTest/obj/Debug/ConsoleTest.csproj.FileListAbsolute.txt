@@ -1,0 +1,13 @@
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\DmsService.dll
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\microsoft.xrm.client.dll
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\DmsService.pdb
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Antoshka\Desktop\DmsService\ConsoleTest\obj\Debug\ConsoleTest.pdb
